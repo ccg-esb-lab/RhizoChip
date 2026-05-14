@@ -1,10 +1,8 @@
 # RhizoChip
 
-Repository for:
 
 **RhizoChip: A modular 3D-printable in situ co-culture device for studying microbial interactions in soil and plant-associated systems**
 
-Carles Tardío Pi, Ayari Fuentes-Hernández, and Rafael Peña-Miller.
 
 ## Overview
 
@@ -32,6 +30,7 @@ The full technical report can be found in [`docs/`](docs/).
 ## Authors
 
 Systems Biology Lab, Center for Genomic Sciences, UNAM.
+Carles Tardío Pi and Rafael Peña-Miller.
 
 ## License
 
