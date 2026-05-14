@@ -25,7 +25,7 @@ The design is implemented as a parametric OpenSCAD model, allowing users to modi
 
 ## Documentation
 
-The full technical report can be found in [`RhizoChip_TechnicalDocument.pdf)`](./docs/RhizoChip_TechnicalDocument.pdf).
+The full technical report can be found in [`RhizoChip_TechnicalDocument.pdf`](./docs/RhizoChip_TechnicalDocument.pdf).
 
 ## Authors
 
